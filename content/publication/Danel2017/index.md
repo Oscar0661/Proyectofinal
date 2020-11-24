@@ -1,9 +1,9 @@
 +++
-title = "Self-reported Health is Related to Body Height and Waist Circumference in Rural Indigenous and Urbanised Latin-American Populations"
-date = 2020-03-9T00:00:00
+title = "A cross-cultural study of sex-typicality and averageness: Correlation between frontal and lateral measures of human faces"
+date = 2018-10-17T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Juan David Leongómez", "admin", "Milena Vásquez-Amézquita", "Eugenio Valderrama", "Andrés Castellanos-Chacón", "Lina Morales-Sánchez", "Javier Nieto", "Isaac González-Santoyo"]
+authors = ["Dariusz P. Danel", "Jaroslava Varella Valentova", "admin", "Juan David Leongómez", "Marco A. C. Varella", "karel"]
 
 # Publication type.
 # Legend:
@@ -17,17 +17,17 @@ authors = ["Juan David Leongómez", "admin", "Milena Vásquez-Amézquita", "Euge
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Scientific reports, 10*(4391), "
+publication = "*American Journal of Human Biology, 30*(5), e23147"
 publication_short = ""
 
 # Abstract.
-abstract = "Body height is a life-history component. It involves important costs for its expression and maintenance, which may originate trade-offs on other costly components such as reproduction or immunity. Although previous evidence has supported the idea that human height could be a sexually selected trait, the explanatory mechanisms that underlie this selection are poorly understood. Despite extensive studies on the association between height and attractiveness, the role of immunity in linking this relation is scarcely studied, particularly in non-Western populations. Here, we tested whether human height is related to health measured by self-perception, and relevant nutritional and health anthropometric indicators in three Latin-American populations that widely differ in socioeconomic and ecological conditions: two urbanised populations from Bogota (Colombia) and Mexico City (Mexico), and one isolated indigenous population (Me’Phaa, Mexico). Results showed that self-reported health is best predicted by an interaction between height and waist circumference: the presumed benefits of being taller are waist-dependent, and affect taller people more than shorter individuals. If health and genetic quality cues play an important role in human mate-choice, and height and waist interact to signal health, its evolutionary consequences, including cognitive and behavioural effects, should be addressed in future research."
+abstract = "Objectives: Facial averageness and sexual dimorphism are extensively studied attractiveness markers, which are viewed as possible indicators of biological quality. Both are complex morphological traits and both can be easily assessed from frontal and lateral projection of a human face. Interestingly, examination of mutual relations between the frontal and lateral dimensions of these markers has so far received little attention in published research. Methods: In our cross-cultural study, we used geometric morphometric data from male and female faces from Brazil, Cameroon, Colombia, and the Czech Republic, and analysed correlations between frontal and lateral measurements of averageness and degree of maleness/femaleness, i.e. individual variation in features that characterize sexual dimorphism. We also analysed whether the association between frontal and lateral measurements differs in men and women. Results: In general, our results showed a moderate correlation in sexually dimorphic features between lateral and frontal facial configuration in both sexes, while frontal and lateral facial averageness was moderately correlated only in women. This pattern was less consistent when individual populations were analysed separately. Conclusions: Referring to the multiple signalling theory, we propose that especially in women, lateral/frontal correlations support a hypothesis of redundancy of information provided by the frontal and lateral dimension of a given facial attractiveness marker. The absence of a significant correlation in male facial averageness suggests that frontal and lateral averageness may convey different information about an individual."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1038/s41598-020-61289-4"
+doi = "10.1002/ajhb.23147"
 
 # Is this a featured publication? (true/false)
 featured = false

@@ -34,7 +34,6 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Source Themes
 featured: false
-
 # links:
  - name: "Preprint"
    url: "https://doi.org/10.1101/194662"
